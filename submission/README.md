@@ -1,4 +1,4 @@
-# Space ERC 721A NFT Collection bridge from Etherium Goerli to Polygon Mumbai network  
+# NFT Collection bridge from Etherium Goerli to Polygon Mumbai network  
 
 This repository contains a Solidity smart contract for Space NFTs (Non-Fungible Tokens). The contract is built using the ERC721 standard and extends the functionality with ERC721A, which supports batch minting.
 ### Requirements 
